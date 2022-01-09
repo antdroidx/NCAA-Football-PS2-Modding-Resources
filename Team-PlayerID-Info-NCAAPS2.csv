@@ -1,0 +1,204 @@
+TDNA,,TGID,TDNA,PGID Start,PGID End
+Air Force,1,1,Air Force,70,139
+Akron,2,2,Akron,140,209
+Alabama,3,3,Alabama,210,279
+Arizona,4,4,Arizona,280,349
+Arizona State,5,5,Arizona State,350,419
+Arkansas,6,6,Arkansas,420,489
+Arkansas State,7,7,Arkansas State,490,559
+Army,8,8,Army,560,629
+Auburn,9,9,Auburn,630,699
+Ball State,10,10,Ball State,700,769
+Baylor,11,11,Baylor,770,839
+Boise State,12,12,Boise State,840,909
+Boston College,13,13,Boston College,910,979
+Bowling Green,14,14,Bowling Green,980,1049
+Buffalo,15,15,Buffalo,1050,1119
+BYU,16,16,BYU,1120,1189
+Cal,17,17,Cal,1190,1259
+UCF,18,18,UCF,1260,1329
+Central Michigan,19,19,Central Michigan,1330,1399
+Cincinnati,20,20,Cincinnati,1400,1469
+Clemson,21,21,Clemson,1470,1539
+Colorado,22,22,Colorado,1540,1609
+Colorado State,23,23,Colorado State,1610,1679
+Duke,24,24,Duke,1680,1749
+ECU,25,25,ECU,1750,1819
+Eastern Michigan,26,26,Eastern Michigan,1820,1889
+Florida,27,27,Florida,1890,1959
+Florida State,28,28,Florida State,1960,2029
+Fresno State,29,29,Fresno State,2030,2099
+Georgia,30,30,Georgia,2100,2169
+Georgia Tech,31,31,Georgia Tech,2170,2239
+Hawaii,32,32,Hawaii,2240,2309
+Houston,33,33,Houston,2310,2379
+Idaho,34,34,Idaho,2380,2449
+Illinois,35,35,Illinois,2450,2519
+Indiana,36,36,Indiana,2520,2589
+Iowa,37,37,Iowa,2590,2659
+Iowa State,38,38,Iowa State,2660,2729
+Kansas,39,39,Kansas,2730,2799
+Kansas State,40,40,Kansas State,2800,2869
+Kent State,41,41,Kent State,2870,2939
+Kentucky,42,42,Kentucky,2940,3009
+Louisiana Tech,43,43,Louisiana Tech,3010,3079
+Louisville,44,44,Louisville,3080,3149
+LSU,45,45,LSU,3150,3219
+Marshall,46,46,Marshall,3220,3289
+Maryland,47,47,Maryland,3290,3359
+Memphis,48,48,Memphis,3360,3429
+Miami,49,49,Miami,3430,3499
+Miami University,50,50,Miami University,3500,3569
+Michigan,51,51,Michigan,3570,3639
+Michigan State,52,52,Michigan State,3640,3709
+Mid Tenn State,53,53,Mid Tenn State,3710,3779
+Minnesota,54,54,Minnesota,3780,3849
+Mississippi State,55,55,Mississippi State,3850,3919
+Missouri,56,56,Missouri,3920,3989
+Navy,57,57,Navy,3990,4059
+Nebraska,58,58,Nebraska,4060,4129
+Nevada,59,59,Nevada,4130,4199
+New Mexico,60,60,New Mexico,4200,4269
+New Mexico State,61,61,New Mexico State,4270,4339
+North Carolina,62,62,North Carolina,4340,4409
+NC State,63,63,NC State,4410,4479
+North Texas,64,64,North Texas,4480,4549
+UL Monroe,65,65,UL Monroe,4550,4619
+Northern Illinois,66,66,Northern Illinois,4620,4689
+Northwestern,67,67,Northwestern,4690,4759
+Notre Dame,68,68,Notre Dame,4760,4829
+Ohio,69,69,Ohio,4830,4899
+Ohio State,70,70,Ohio State,4900,4969
+Oklahoma,71,71,Oklahoma,4970,5039
+Oklahoma State,72,72,Oklahoma State,5040,5109
+Ole Miss,73,73,Ole Miss,5110,5179
+Oregon,74,74,Oregon,5180,5249
+Oregon State,75,75,Oregon State,5250,5319
+Penn State,76,76,Penn State,5320,5389
+Pittsburgh,77,77,Pittsburgh,5390,5459
+Purdue,78,78,Purdue,5460,5529
+Rice,79,79,Rice,5530,5599
+Rutgers,80,80,Rutgers,5600,5669
+San Diego State,81,81,San Diego State,5670,5739
+San Jose State,82,82,San Jose State,5740,5809
+SMU,83,83,SMU,5810,5879
+South Carolina,84,84,South Carolina,5880,5949
+Southern Miss,85,85,Southern Miss,5950,6019
+UL Lafayette,86,86,UL Lafayette,6020,6089
+Stanford,87,87,Stanford,6090,6159
+Syracuse,88,88,Syracuse,6160,6229
+TCU,89,89,TCU,6230,6299
+Temple,90,90,Temple,6300,6369
+Tennessee,91,91,Tennessee,6370,6439
+Texas,92,92,Texas,6440,6509
+Texas A&M,93,93,Texas A&M,6510,6579
+Texas Tech,94,94,Texas Tech,6580,6649
+Toledo,95,95,Toledo,6650,6719
+Tulane,96,96,Tulane,6720,6789
+Tulsa,97,97,Tulsa,6790,6859
+UAB,98,98,UAB,6860,6929
+UCLA,99,99,UCLA,6930,6999
+Connecticut,100,100,Connecticut,7000,7069
+UNLV,101,101,UNLV,7070,7139
+USC,102,102,USC,7140,7209
+Utah,103,103,Utah,7210,7279
+Utah State,104,104,Utah State,7280,7349
+UTEP,105,105,UTEP,7350,7419
+Vanderbilt,106,106,Vanderbilt,7420,7489
+Virginia,107,107,Virginia,7490,7559
+Virginia Tech,108,108,Virginia Tech,7560,7629
+Wake Forest,109,109,Wake Forest,7630,7699
+Washington,110,110,Washington,7700,7769
+Washington State,111,111,Washington State,7770,7839
+West Virginia,112,112,West Virginia,7840,7909
+Western Michigan,113,113,Western Michigan,7910,7979
+Wisconsin,114,114,Wisconsin,7980,8049
+Wyoming,115,115,Wyoming,8050,8119
+Alabama A&M,116,116,Alabama A&M,8120,8189
+Alabama State,117,117,Alabama State,8190,8259
+Alcorn State,118,118,Alcorn State,8260,8329
+Ark - Pine Bluff,119,119,Ark - Pine Bluff,8330,8399
+Bethune-Cookman,120,120,Bethune-Cookman,8400,8469
+Brown,121,121,Brown,8470,8539
+Columbia,122,122,Columbia,8540,8609
+Cornell,123,123,Cornell,8610,8679
+Dartmouth,124,124,Dartmouth,8680,8749
+Delaware State,125,125,Delaware State,8750,8819
+Florida A&M,126,126,Florida A&M,8820,8889
+Grambling State,127,127,Grambling State,8890,8959
+Hampton,128,128,Hampton,8960,9029
+Harvard,129,129,Harvard,9030,9099
+Howard,130,130,Howard,9100,9169
+Jackson State,131,131,Jackson State,9170,9239
+Miss Valley State,132,132,Miss Valley State,9240,9309
+Morgan State,133,133,Morgan State,9310,9379
+Norfolk State,134,134,Norfolk State,9380,9449
+NC A&T State,135,135,NC A&T State,9450,9519
+Penn,136,136,Penn,9520,9589
+Prairie View A&M,137,137,Prairie View A&M,9590,9659
+Princeton,138,138,Princeton,9660,9729
+S Carolina State,139,139,S Carolina State,9730,9799
+Southern,140,140,Southern,9800,9869
+Texas Southern,141,141,Texas Southern,9870,9939
+Yale,142,142,Yale,9940,10009
+Troy,143,143,Troy,10010,10079
+USF,144,144,USF,10080,10149
+1AA East,160,160,1AA East,11200,11269
+1AA West,161,161,1AA West,11270,11339
+1AA Northwest,162,162,1AA Northwest,11340,11409
+1AA Midwest,163,163,1AA Midwest,11410,11479
+1AA Southeast,164,164,1AA Southeast,11480,11549
+Delaware,177,177,Delaware,12390,12459
+Hofstra,178,178,Hofstra,12460,12529
+James Madison,179,179,James Madison,12530,12599
+Maine,180,180,Maine,12600,12669
+UMass,181,181,UMass,12670,12739
+New Hampshire,182,182,New Hampshire,12740,12809
+Northeastern,183,183,Northeastern,12810,12879
+Rhode Island,184,184,Rhode Island,12880,12949
+Richmond,185,185,Richmond,12950,13019
+Villanova,186,186,Villanova,13020,13089
+William and Mary,187,187,William and Mary,13090,13159
+Appalachian State,188,188,Appalachian State,13160,13229
+The Citadel,189,189,The Citadel,13230,13299
+Elon,191,191,Elon,13370,13439
+Furman,192,192,Furman,13440,13509
+Georgia Southern,193,193,Georgia Southern,13510,13579
+Chattanooga,194,194,Chattanooga,13580,13649
+Western Carolina,195,195,Western Carolina,13650,13719
+Wofford,196,196,Wofford,13720,13789
+E Washington,197,197,E Washington,13790,13859
+Idaho State,198,198,Idaho State,13860,13929
+Montana,199,199,Montana,13930,13999
+Montana State,200,200,Montana State,14000,14069
+Northern Arizona,201,201,Northern Arizona,14070,14139
+Portland State,202,202,Portland State,14140,14209
+Sacramento State,203,203,Sacramento State,14210,14279
+Weber State,204,204,Weber State,14280,14349
+Illinois State,205,205,Illinois State,14350,14419
+Indiana State,206,206,Indiana State,14420,14489
+UNI,207,207,UNI,14490,14559
+Southern Illinois,208,208,Southern Illinois,14560,14629
+SMS,209,209,SMS,14630,14699
+Western Illinois,210,210,Western Illinois,14700,14769
+Western Kentucky,211,211,Western Kentucky,14770,14839
+Youngstown State,212,212,Youngstown State,14840,14909
+McNeese State,213,213,McNeese State,14910,14979
+Northwestern St,214,214,Northwestern St,14980,15049
+Nicholls State,215,215,Nicholls State,15050,15119
+Stephen F. Austin,216,216,Stephen F. Austin,15120,15189
+Sam Houston St,217,217,Sam Houston St,15190,15259
+Texas State,218,218,Texas State,15260,15329
+Eastern Illinois,219,219,Eastern Illinois,15330,15399
+Murray State,220,220,Murray State,15400,15469
+Eastern Kentucky,221,221,Eastern Kentucky,15470,15539
+SE Missouri St,222,222,SE Missouri St,15540,15609
+Jacksonville State,223,223,Jacksonville State,15610,15679
+Tennessee Tech,224,224,Tennessee Tech,15680,15749
+Tennessee State,225,225,Tennessee State,15750,15819
+Samford,226,226,Samford,15820,15889
+Tennessee-Martin,227,227,Tennessee-Martin,15890,15959
+Towson,228,228,Towson,15960,16029
+Florida Atlantic,229,229,Florida Atlantic,16030,16099
+FIU,230,230,FIU,16100,16169
+Southeastern,231,231,Southeastern,16170,16239
