@@ -1,0 +1,559 @@
+﻿DEFINITIONS,0
+PLAY,Player DB
+PF10,Player First
+PL10,Player Last
+PF01,Player First
+PL01,Player Last
+PL11,Player Last
+PF02,Player Last
+PL02,Player Last
+PL12,Player First
+PF03,Player First
+PL03,Player Last
+PL13,Player First
+PF04,Player Last
+PL04,Player First
+PF05,Player Last
+PL05,Player First
+PF06,Player Last
+PL06,Player First
+PF07,Player Last
+PL07,Player First
+PF08,Player Last
+PL08,Player Last
+PF09,Player First
+PL09,Player Last
+PTHA,Throw Acc
+PSTA,Stamina
+PLEB,Left Elbow
+PREB,Right Elbow
+PKAC,Kick Acc
+PACC,Acceleration
+PHED,Head Style
+RCHD,Hometown
+PGID,Player
+PHPD,?
+PSPD,Speed
+PRSD,REDSHIRT
+PPOE,Potential
+PBRE,Nasal Strip
+PEYE,Eye Paint
+PLMG,Mouthguard?
+PFSH,Shape
+PLSH,Left Shoe
+PMSH,Mid Shape
+PRSH,Right Shoe
+PSSH,Shoulder Shape
+PCTH,Catch
+PAGI,Agility
+PSKI,Skin Tone
+PINJ,Injry
+PTAK,Tackle
+PPBK,Pass Block
+PRBK,Run Block
+PNEK,NeckPad
+PFMK,Face Mask
+PBTK,Break Tackle
+PHCL,Hair Color
+PFGM,Facial Hair?
+HELM,Helmet
+PHAN,Preferred Hand
+PJEN,Jersey Num
+PTEN,Tendancy
+PLHN,left gloves
+PRHN,right gloves
+PSLO,Sock Length
+PTTO,Tattoo
+PLFP,
+PTHP,Throw Power
+PFMP,Faces
+PIMP,Importance
+PJMP,Jump
+PTYP,Type
+PCAR,Carry
+PYER,Year
+PKPR,Kick Power
+PSTR,Strength
+POVR,Overall
+PAWR,Awareness
+PVIS,Visor
+PFJS,Jersey Sleeves
+PPOS,Position
+PLWS,Wrist
+PRWS,Wrist
+PHGT,Height (in)
+PWGT,Weight (lb)
+PSLT,
+PRST,
+PLSY,
+PDIS,Discipline
+ddep,Depth Chart Number
+CONF,Conference
+CGID,Conf ID
+LGID,League ID
+CNAM,Conf Name
+CMNP,
+CMXP,Conf X Points?
+CNPR,
+CPRS,Conf Prestige
+NCcl,Conf Logo
+DGID,Division ID
+DNAM,Division Name
+DIVI,Divisions
+TSWP,Team Swap
+TGID,Team ID
+TIDR,Team #2 ID
+SWOR,Swap Order
+TOID,Team Org ID
+SLNU,Team Number
+BOWL,Bowl Games
+BCI1,Conf #1 ID
+BCR1,Conf #1 Rank
+BCI2,Conf #1 ID
+BCR2,Conf #2 Rank
+BMFD,
+SGID,Stadium ID
+UTID,Trophy ID
+GTOD,Time of Day
+BNME,Bowl Name
+SGNM,Game Number
+BMON,Month
+SEWN,Week Number
+BLGO,Bowl Order
+BPLO,
+BIDX,Bowl Index
+BDAY,Bowl Day
+COCH,Coaches
+CT05,Top 5 App
+CT15,Top 15 App
+CT25,Top 25 App
+CDTA,Def Aggressiveness
+COTA,Off Aggressiveness
+CCBB,
+CDPC,Discipline Pct
+CRPC,Recruiting Pct
+CTPC,Training Pct
+CFRC,Recruit Assistance (on/off)
+CFUC,User Control
+CYCD,Years Coached
+CCID,Coach ID
+CDID,Def Playbook ID
+CPID,Off Playbook ID
+PTID,
+CPRE,Coach Prestige
+CCTF,
+CLTF,Last Team Coached?
+COCI,
+CSKI,Coach Skin Tone
+CCWI,Career Wins
+CSWI,Season Wins
+C25L,Top 25 Losses
+CBLL,Bowl Losses
+CCOL,
+CCRL,Regional TV Losses
+CNTL,Nat TV Losses
+CRTL,Reg TV losses
+CTTL,Total TV Losses
+CRVL,Rival Losses
+CLFN,Coach First Name
+CLLN,Coach Last Name
+CCRN,
+CCWN,Career Wins
+CTWN,Total Wins
+CCJO,
+CCLO,Career Losses
+CSLO,Season Losses
+CCPO,
+CTOP,
+CCTP,
+CHAR,Hair Color
+CDTR,Def Pass Tendency
+CLTR,Last Team Coached
+COTR,Off Pass Tendency
+CCYR,
+CTYR,Years with Team
+CSAS,Disciple Assistance (on/off)
+COFS,
+CCLS,Longest Streak
+CSLS,
+CTLS,Total Losses
+CDTS,Def Sub Pct
+COTS,Off Sub Pct
+CCWS,Winning Seasons
+CRWS,
+CSWS,Current Streak
+CCCT,Conf Titles
+COCT,
+COHT,Coach Hat
+CCNT,National Titles
+CDST,Def Type
+COST,Off Type
+CWST,
+C25W,Top 25 Wins
+CBLW,Bowl Wins
+CCRW,
+CCSW,
+CCTW,TV Wins
+CNTW,Nat TV Wins
+CRTW,Reg TV Wins
+CTTW,Total TV Wins
+CNVW,
+CRVW,Rival Wins
+CCEX,
+CFEX,Face Age
+CCFY,
+COTY,
+CBSZ,Body Size
+USid,
+CThg,Hair Style
+CTgw,Glasses
+HEIS,Heisman Candidates
+HPRK,Heisman Ranking
+MCOV,Magazine Covers
+CID0,
+HID0,
+MBK0,
+CEM0,
+CAN0,
+CTY0,
+MTTN,
+SEWN,Week Number
+MCTX,Cover Title
+MHTX,Headline Title
+MLAY,
+TEAM,Teams
+TSI1,
+TEZ1,
+TSI2,
+TEZ2,
+TL35,
+TMAA,Avg Attendance
+TMIA,
+TDNA,College Name
+TMNA,Nick Name
+TSNA,Short Name
+TCPA,
+TDPA,
+TSPA,
+TRDB,DB Rating
+TFFB,
+TRLB,LB Rating
+TFOB,
+TDPB,
+TOPB,
+TRQB,QB Rating
+TRRB,RB Rating
+TWPC,
+TPID,
+MSID,
+TFRD,
+TORD,Team Order (Display)
+TRDE,DE Rating
+TCHE,
+TROF,Offense Rating
+TCPF,
+TDPF,
+TSPF,
+TFFG,
+TFOG,
+TSWI,Win Streak?
+TBRK,Bowl Rank
+TCRK,Coach Poll Rank
+TMRK,Media Poll Rank
+TNCL,
+TRDL,
+TMFL,
+TLGL,
+TCHL,
+TROL,
+JJNM,
+TPIO,
+TSLO,
+INPO,
+DCAP,
+OCAP,
+TMCP,
+NCDP,
+TCFP,
+TMFP,
+TPIP,
+TMPP,
+TCRP,
+TCWP,
+TDWP,
+TTYP,
+TMAR,Team Academic
+TFOR,
+TBPR,
+TCPR,
+TDPR,
+TMPR,Team Prestige
+TOPR,
+TDRR,
+TORR,
+TWRR,
+SDUR,
+TOVR,Team Overall
+TSCS,
+TSDS,
+TCHS,
+TVIS,
+THPS,
+TMPS,
+TPRS,
+SNCT,
+TCHT,
+TCPT,
+TMPT,
+TRST,
+TENV,
+TROV,
+TMRV,
+TNCW,
+TCHW,
+TSLW,
+tsal,
+tsbl,
+tscl,
+tsdl,
+tshl,
+tscs,
+tsns,
+tsaw,
+tsbw,
+tscw,
+tsdw,
+tshw,
+TMCO,Teams Controlled?
+INJY,Injury List
+INJL,Injury Length
+INJY,Injury Type
+DPRS,Depth Requirements
+PDPA,
+PDSG,
+PDIM,Pos Importance
+PDPM,
+PDRP,
+PPGR,
+PPOS,Position
+PDST,Position Name
+PLPS,Position List
+PPIA,min Position
+PPSG,
+PPIM,Pos Importance
+PPIR,Pos Amt Required
+PPST,Pos Name
+GOPT,Game Options
+ECPA,CPU Pass Assist
+OAFA,CPU FG Accuracy
+OFFA,
+OHFA,User FG Accuracy
+OFHA,
+EPKA,
+OAPA,CPU Punt Accuracy
+OHPA,User Punt Accuracy
+EPPA,Player Pass Assit
+OARA,CPU Run Ability
+OHRA,User Run Ability
+EPRA,Player Run Assist
+OATA,CPU Tackling
+OHTA,User Tackling
+OADB,CPU Break Block
+OHDB,User Break Block
+OARB,CPU Run Block
+OHRB,User Run Block
+OAAC,CPU Pass Accuracy
+OFAC,
+OHAC,User Pass Accuracy
+OFMC,
+OIMC,
+OFPC,
+EPPC,
+OARC,CPU WR Catching
+OHRC,User WR Catching
+OFSC,
+OPUC,Unsportsmanlike Conduct
+OFTD,
+OSLE,
+OPPF,
+OFWF,
+OPIG,Intentional Grounding
+OFAI,
+OPPI,
+OPTI,
+OADK,CPU Knockdowns
+OHDK,User Knockdowns
+OPRK,Roughing Kicker
+OPCL,Clipping
+OFDL,
+OAFL,CPU FG Length
+OHFL,User FG Length
+OAKL,CPU Kick-Off Length
+OHKL,User Kick-Off Length
+OAPL,CPU Punt Length
+OHPL,User Punt Length
+OPFM,Face Mask Penalty
+GPPM,
+OAIN,CPU Interceptions
+OFIN,
+OHIN,User Interceptions
+OQLN,
+EPON,
+OFPN,Penalties On/Off
+EPPN,
+OPHO,Holding
+OFMO,
+OPDP,Defensive PI
+OAOP,CPU Pass Blocking
+OHOP,User Pass Blocking
+OPOP,Offensive PI
+OPRP,Roughing Passer
+OCAS,
+OICS,
+OPFS,False Starts
+EPOS,
+OPOS,
+OFFS,Offsides On/Off
+OPIT,Illegal Touch On/Off
+OAAW,CPU Awareness
+OHAW,User Awareness
+OCVW,
+GINF,More Game Options
+GQTR,Quarter Length
+MOIN,Save Data
+SEAI,Season Status
+SERB,
+SSYE,
+SESI,
+SEWN,Season Week
+SNCP,
+SNDP,
+SEFP,
+SNWP,
+SEYR,Season Year
+SEST,
+SEWT,
+SEOW,Off-Season Week
+SNPW,
+SERW,
+SESW,
+AAPL,All-Americans
+TTYP,First Team 0/Second Team 1
+STAD,Stadium
+STS1,
+STS2,
+STCA,
+STFA,
+TDNA,Team Name
+SSTA,Stadium State
+SFBB,
+SGID,Stadium ID
+STID,State ID
+SORD,Stadium Order
+SCRE,
+SFWE,
+MPTH,
+SORI,
+SFTI,
+SNAM,Stadium Name
+STFN,
+STGN,
+STNN,Stadium Nickname
+SCAP,Stadium Capacity
+SWFP,
+SWRP,
+SWSP,
+SWWP,
+STYP,
+STDR,
+SRES,
+STHS,
+SCIT,Stadium City
+SIOT,
+SGPT,
+SBST,
+SMLX,
+SMLY,
+SFTY,
+SFbb,
+STfc,
+STlc,
+Stlc,
+SUTf,
+STrf,
+STri,
+STcl,
+STll,
+STrl,
+STwp,
+STRr,
+stcr,
+STlr,
+STrr,
+STts,
+SSft,
+STjt,
+STxt,
+STtv,
+STfw,
+TRAN,Transfers
+PGID,Player ID
+PTDI,Transferred Team
+TRYR,Transfer Status (1-Completed 0-Redshirt)
+WQTS,Score History
+GASC,Away Score
+GHSC,Home Score
+SGNM,Game Number
+SEWN,Week Number
+GQTR,Game Quarter
+MCRT,In-Season Recruiting
+PS01,Team 1 Score
+PT01,Team1 Offer
+PRV1,
+PS02,Team 2 Score
+PT02,Team 2 Offer
+PRV2,
+PS03,Team 3 Score
+PT03,Team 3 Offer
+PRV3,
+PS04,Team 4 Score
+PT04,Team 4 Offer
+PRV4,
+PS05,Team 5 Score
+PT05,Team 5 Offer
+PRV5,
+PS06,Team 6 Score
+PT06,Team 6
+PRV6,
+PS07,Team 7 Score
+PT07,Team 7
+PRV7,
+PS08,Team 8 Score
+PT08,Team 8
+PRV8,
+WGTA,Weight Academics
+STGC,
+WGTC,Weight Coach Prestige
+RCHD,Home Town
+PRID,
+STID,State ID
+RORD,
+MSTG,
+SPSL,Recruit ID Number
+WGTL,Weight Team Location
+RCCM,
+FSPN,Recruit First Name
+LSPN,Recruit Last Name
+PFMP,Face Type
+PPSP,
+WGTP,Weight Team Prestige
+POVR,Overall
+PPOS,Position
+WGTS,Weight Coaching Style
+WGTY,Weight Playing Time
+PSDE,Player Stats Defense
+PSKI,Player Stats Kicking
+PSKP,Player Stats Kick/Punt Returns
+PSOF,Player Stats Offense
+PSOL,Player Stats Off Line
+PSRC,Player Stats Conf Ranks
