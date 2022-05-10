@@ -1,0 +1,19 @@
+12-team conferences : use ACC as template
+ACC - default
+SEC - default
+Pac-12
+Big 12
+Big Ten
+Big East
+
+10-Team conferences : use Pac 10 as template
+MAC
+Mt West
+
+9-Team : use Mt West
+C-USA
+WAC
+
+8-team : use Big East
+Sun Belt
+
